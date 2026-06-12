@@ -38,3 +38,9 @@ A = sicher/selbstständig, B = machbar mit gelegentlicher Hilfe, C = unsicher in
 | Endbenutzer-Dokumentation (verständlich schreiben) | B |
 | AWS EC2 Snapshots/AMI (Cloud-basierter Rollback) | B |
 | AWS RDS (Managed Database, Import, Vergleich) | B |
+
+
+---
+
+# Schwierigkeiten 
+Ich habe dieses Projekt als eher anspruchsvoll empfunden, da ich so etwas noch nie zuvor gemacht habe. Ich habe durch dieses Projekt gelernt, wie ich mit Netzwerkproblemen in einer VM umgehe und wie eine solche Migration richtig abläuft. Claud hat mich mit Hinweisen und bei der Textverbesserung sowie beim Troubleshooting unterstützt.
