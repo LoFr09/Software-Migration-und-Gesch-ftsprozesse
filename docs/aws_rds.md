@@ -25,7 +25,6 @@ Den **Endpoint** findest du danach in den Details der Instanz (sieht aus wie `me
 
 Auf der EC2 eine lokale DB als Quelle aufsetzen:
 
-
 ```bash
 sudo apt install -y mariadb-server mysql-client
 
